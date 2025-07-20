@@ -1,8 +1,4 @@
-Here's a catchy and emoji-rich `README.md` file you can use for your GitHub profile or any pinned repository that introduces your journey as a Python and DSA learner with flair:
 
----
-
-```markdown
 # 👩‍💻 Tripti Chaurasia — Future IT Pro in the Making!
 
 🌟 **Welcome to my GitHub!**  
@@ -50,6 +46,4 @@ I'm **Tripti Chaurasia**, a passionate and curious third-year B.Tech student in 
 🚀 *Passionate about learning. Eager to grow. Ready to code the future!*  
 ```
 
----
 
-Let me know if you’d like to make a version that’s more portfolio-focused or tailored for a specific project!
